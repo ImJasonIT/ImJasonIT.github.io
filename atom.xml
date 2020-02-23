@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.huangjunfeng.com/"/>
-  <updated>2020-02-23T04:18:56.583Z</updated>
+  <updated>2020-02-23T08:18:36.000Z</updated>
   <id>http://www.huangjunfeng.com/</id>
   
   <author>
@@ -17,80 +17,59 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2019-REVIEW12</title>
-    <link href="http://www.huangjunfeng.com/2020/02/06/jason/2019review/"/>
-    <id>http://www.huangjunfeng.com/2020/02/06/jason/2019review/</id>
+    <title>敬请期待，在这里将会分享编程心得</title>
+    <link href="http://www.huangjunfeng.com/2020/02/06/coding/coding/"/>
+    <id>http://www.huangjunfeng.com/2020/02/06/coding/coding/</id>
     <published>2020-02-06T13:53:49.000Z</published>
-    <updated>2020-02-23T04:18:56.583Z</updated>
+    <updated>2020-02-23T08:18:36.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Jason-first-article"><a href="#Jason-first-article" class="headerlink" title="Jason first article"></a>Jason first article</h2><p>Actually, this is the first time to make a blog in my life.I would like to share my every meaningful moments, new knowledges or skills, even my yellow photos2</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="敬请期待"><a href="#敬请期待" class="headerlink" title="敬请期待"></a>敬请期待</h2><p>在这里将会分享编程心得</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Jason-first-article&quot;&gt;&lt;a href=&quot;#Jason-first-article&quot; class=&quot;headerlink&quot; title=&quot;Jason first article&quot;&gt;&lt;/a&gt;Jason first article&lt;/h2&gt;&lt;p&gt;Ac
+        &lt;h2 id=&quot;敬请期待&quot;&gt;&lt;a href=&quot;#敬请期待&quot; class=&quot;headerlink&quot; title=&quot;敬请期待&quot;&gt;&lt;/a&gt;敬请期待&lt;/h2&gt;&lt;p&gt;在这里将会分享编程心得&lt;/p&gt;
+
       
     
     </summary>
     
     
-      <category term="jason" scheme="http://www.huangjunfeng.com/categories/jason/"/>
+      <category term="coding" scheme="http://www.huangjunfeng.com/categories/coding/"/>
     
     
-      <category term="Javascript" scheme="http://www.huangjunfeng.com/tags/Javascript/"/>
-    
-      <category term="README" scheme="http://www.huangjunfeng.com/tags/README/"/>
+      <category term="coding" scheme="http://www.huangjunfeng.com/tags/coding/"/>
     
   </entry>
   
   <entry>
-    <title>README</title>
-    <link href="http://www.huangjunfeng.com/2020/01/28/jason/README/"/>
-    <id>http://www.huangjunfeng.com/2020/01/28/jason/README/</id>
-    <published>2020-01-28T05:53:49.000Z</published>
-    <updated>2020-01-29T08:18:36.000Z</updated>
+    <title>2020 New challenge</title>
+    <link href="http://www.huangjunfeng.com/2020/02/06/life/2020/"/>
+    <id>http://www.huangjunfeng.com/2020/02/06/life/2020/</id>
+    <published>2020-02-06T13:53:49.000Z</published>
+    <updated>2020-02-23T08:18:36.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Jason-first-article"><a href="#Jason-first-article" class="headerlink" title="Jason first article"></a>Jason first article</h2><p>I would like to share my moments &amp; experiences to everyone with interesting spirit.<br><a href="https://blog.csdn.net/u012195214/article/details/79204088" target="_blank" rel="noopener">教程1</a><br><a href="https://www.simon96.online/2018/10/12/hexo-tutorial/" target="_blank" rel="noopener">教程2</a><br><a href="http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html" target="_blank" rel="noopener">教程3</a></p><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><blockquote><p>Every interaction is both precious and an opportunity to delight.</p><footer><strong>Seth Godin</strong><cite><a href="http://www.baidu.com" target="_blank" rel="noopener">Welcome to Island Marketing</a></cite></footer></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&#39;Hello World!&#39;);</span><br></pre></td></tr></table></figure><p><img src="/images/music.png" alt="music"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Jason-first-article&quot;&gt;&lt;a href=&quot;#Jason-first-article&quot; class=&quot;headerlink&quot; title=&quot;Jason first article&quot;&gt;&lt;/a&gt;Jason first article&lt;/h2&gt;&lt;p&gt;I 
-      
-    
-    </summary>
-    
-    
-      <category term="README" scheme="http://www.huangjunfeng.com/categories/README/"/>
-    
-    
-      <category term="Javascript" scheme="http://www.huangjunfeng.com/tags/Javascript/"/>
-    
-      <category term="README" scheme="http://www.huangjunfeng.com/tags/README/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.huangjunfeng.com/2020/01/28/jason/hello-world/"/>
-    <id>http://www.huangjunfeng.com/2020/01/28/jason/hello-world/</id>
-    <published>2020-01-28T02:33:52.582Z</published>
-    <updated>2020-01-28T02:33:52.582Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="不平凡的春节"><a href="#不平凡的春节" class="headerlink" title="不平凡的春节"></a>不平凡的春节</h3><p>2020年2月23日，阳光普照。过去的整整一个月，中国人民众志成城，奋力抵抗武汉新型冠状病毒（2019-nCoV）。<br>疫情即将进入拐点，重要关头我们更加不能松懈，坚决不给国家添堵。所以，与其抱怨疫情期间不能吃喝玩乐，不如在家安安静静码字。</p><h3 id="复盘2019，展望2020"><a href="#复盘2019，展望2020" class="headerlink" title="复盘2019，展望2020"></a>复盘2019，展望2020</h3><p>2019年11月，趁着双11我剁手了蓄谋已久的腾讯云服务器，入门级别的配置（2核4GB），对于初入门服务器的新手来说，够用了。为什么选择腾讯？哪有那么多为什么，还不是因为便宜。<br>因为大学的Linux知识大部分已经还给老师了，所以果断选择最熟悉的Window系统，但是不建议新手用Window系统，趁年轻就应该多学点Linux知识。<br>不是我学不动了，更不是因为我老了（呵呵），只是已经迫不及待要上线你眼前的这个博客。没错，就是这个有点简陋但充满诚意的博客。</p><p>实不相瞒，作为一个前端程序员，日常的开发所需要接触到服务器最多的情景就是提交代码（SVN或Git）和部署代码（FTP），或者配置一下Nginx，<br>大不了再跑个Node服务端代码。之后有时间，建议大家也钻研一下Linux+NodeJS+MongoDB这一套，学海无涯苦作舟啊！</p><p>言归正传，服务器到手了，必须得弄个域名才够洋气吧，寻思许久，也请教过很多前辈，但一直都没有满意的方案。毕竟，灵感这种玄学的东西，可遇不可求。<br>在遵循简洁、易记和突出个人特色的原则下，“huangjunfeng.com”应运而生。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h3 id=&quot;不平凡的春节&quot;&gt;&lt;a href=&quot;#不平凡的春节&quot; class=&quot;headerlink&quot; title=&quot;不平凡的春节&quot;&gt;&lt;/a&gt;不平凡的春节&lt;/h3&gt;&lt;p&gt;2020年2月23日，阳光普照。过去的整整一个月，中国人民众志成城，奋力抵抗武汉新型冠状病毒（2019-nC
       
     
     </summary>
     
     
+      <category term="life" scheme="http://www.huangjunfeng.com/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://www.huangjunfeng.com/tags/life/"/>
+    
+      <category term="challenge" scheme="http://www.huangjunfeng.com/tags/challenge/"/>
+    
+      <category term="2020" scheme="http://www.huangjunfeng.com/tags/2020/"/>
     
   </entry>
   
