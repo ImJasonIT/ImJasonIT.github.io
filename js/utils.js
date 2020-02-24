@@ -209,6 +209,12 @@ NexT.utils = {
       if (!target) return;
       var isSamePath = target.pathname === location.pathname || target.pathname === location.pathname.replace('index.html', '');
       var isSubPath = target.pathname !== CONFIG.root && location.pathname.indexOf(target.pathname) === 0;
+      if(target.pathname=='/categories/' && location.pathname == '/categories/life/'){
+        isSubPath = false
+      }
+      else if(target.pathname=='/categories/' && location.pathname == '/categories/coding/'){
+        isSubPath = false
+      }
       element.classList.toggle('menu-item-active', target.hostname === location.hostname && (isSamePath || isSubPath));
     });
   },
